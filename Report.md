@@ -140,21 +140,9 @@ This solution caters particularly to users who desire a self-hosted alternative 
 2. **Change Password**: Secure password modification interface
 3. **Logout**: Session termination
 
-## Screenshots of Developed Application
-
-[Note: Actual screenshots would be inserted here. Below is a description of what these screenshots would show.]
-
-1. **Login Screen**: Clean interface with form fields for email and password
-2. **Registration Screen**: User registration form with validation indicators
-3. **Dashboard**: Visual representation of expense metrics with pie charts and statistics cards
-4. **Add Expense Form**: Intuitive form with date picker and input fields
-5. **Expense Management**: Tabular view of transactions with action buttons
-6. **User Profile**: Personal information display and edit interface
-7. **Password Change**: Secure interface for password updates
-
 ## GitHub Repository Link
 
-[https://github.com/username/daily-expense-tracker](https://github.com/username/daily-expense-tracker)
+[https://github.com/amandeeep02/WPL_MiniProject](https://github.com/amandeeep02/WPL_MiniProject)
 
 ## Technical Implementation Details
 
